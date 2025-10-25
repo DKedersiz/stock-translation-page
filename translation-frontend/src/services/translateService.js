@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "AIzaSyC6Ze3jQ-9K9RZ-sNwxqAVNgagms-LYy2M";
+const API_KEY = "XXYY";
 const TRANSLATE_URL =
   "https://translation.googleapis.com/language/translate/v2";
 
